@@ -35,3 +35,4 @@ sls deploy
 
 ## 参考
 https://www.serverless.com/framework/docs/getting-started
+https://github.com/Sparticuz/chromium
